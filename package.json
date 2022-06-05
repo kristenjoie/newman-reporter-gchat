@@ -1,0 +1,23 @@
+{
+  "name": "newman-reporter-gchat",
+  "version": "1.0.0",
+  "description": "Newman reporter to Google Chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristenjoie/newman-reporter-gchat.git"
+  },
+  "author": "Kristen Joie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kristenjoie/newman-reporter-gchat/issues"
+  },
+  "homepage": "https://github.com/kristenjoie/newman-reporter-gchat#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "pretty-ms": "^7.0.1"
+  }
+}
